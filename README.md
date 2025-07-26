@@ -47,5 +47,5 @@
     Positive       0.89      0.93      0.91     12500
 
     accuracy                           0.91     25000
-   macro avg       0.91      0.91      0.91     25000
-weighted avg       0.91      0.91      0.91     25000
+    macro avg       0.91      0.91      0.91     25000
+    weighted avg       0.91      0.91      0.91     25000
