@@ -1,0 +1,34 @@
+# =========================
+#  Python / VirtualEnv
+# =========================
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# =========================
+#  Machine Learning / Data
+# =========================
+# 忽略所有模型文件、数据和日志
+saved_model/
+data/
+*.log
+*.tflite
+*.onnx
+
+# =========================
+#  IDE / Editor specific
+# =========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# =========================
+#  OS specific
+# =========================
+.DS_Store
+Thumbs.db
