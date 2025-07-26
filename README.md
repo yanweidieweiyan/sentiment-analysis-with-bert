@@ -49,3 +49,9 @@
     accuracy                           0.91     25000
     macro avg       0.91      0.91      0.91     25000
     weighted avg       0.91      0.91      0.91     25000
+
+## 项目总结与心得
+通过这个项目，我不仅学习了如何应用Transformer模型解决实际问题，更重要的是，我亲手解决了从环境配置、依赖冲突到GPU驱动等一系列工程难题。这个过程让我深刻理解到，一个成功的机器学习项目不仅需要扎实的理论知识，更需要强大的动手实践和问题解决能力。
+
+## GitHub地址
+[https://github.com/yanweidieweiyan/sentiment-analysis-with-bert](https://github.com/yanweidieweiyan/sentiment-analysis-with-bert)
